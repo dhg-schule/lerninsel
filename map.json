@@ -37,7 +37,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"welcomedesk"
+                 "value":"https:\/\/www.deutschhaus.de"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -205,7 +205,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"sign1"
+                 "value":"http:\/\/wegweiser.deutschhaus.de\/index.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -223,7 +223,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"sign2"
+                  "value":"https:\/\/www.zum.de\/dwu\/depothp\/hp-math\/hpmzb63.htm"
                 }],
          "type":"tilelayer",
          "visible":true,
