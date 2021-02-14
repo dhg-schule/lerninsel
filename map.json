@@ -205,7 +205,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/wegweiser.deutschhaus.de\/index.html"
+                 "value":"https:\/\/t1p.de\/sxvb"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -241,7 +241,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"sign3"
+                 "value":"https:\/\/www.zum.de\/dwu\/depothp\/hp-math\/hpmpo52.htm"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -259,7 +259,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"sign4"
+                 "value":"https:\/\/www.zum.de\/dwu\/depothp\/hp-math\/hpmpo53.htm"
                 }],
          "type":"tilelayer",
          "visible":true,
